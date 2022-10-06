@@ -1,3 +1,3 @@
 # Birthdater frontend
 
-**Warning** Could may be very scuffed!
+**Warning** Code could be very scuffed!
