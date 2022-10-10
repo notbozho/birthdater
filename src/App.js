@@ -16,7 +16,6 @@ function App() {
   return (
     <div className="App">
       <h1>hi</h1>
-      {users.map(u => <h1>{u.firstName}</h1>)}
     </div>
   );
 }
